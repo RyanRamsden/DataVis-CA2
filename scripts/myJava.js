@@ -1,3 +1,5 @@
+let scrollSpy = new bootstrap.ScrollSpy(document.body, { target: '#navbar-main' })
+
 //Contact Me form
 (function() {
   const form = document.getElementById('contactForm');
